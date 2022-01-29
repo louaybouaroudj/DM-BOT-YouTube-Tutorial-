@@ -1,6 +1,6 @@
 {
 	"prefix" : "dm",
 	"token" : "OTE5MDQzNDYwMDQyOTgxMzc2.YbQD6w.zyzpywlcS3A8OYYcn5cCMzDGI-I",
-	"delay" : "1",
+	"delay" : "1000",
 	"log_dms" : "on"
 }
